@@ -85,7 +85,7 @@
 <div class="down-box2">
 <div class="title3">Testimonial</div>
 <div class="description">
-&#8220;Lorem ipsum dolor sit amet, consecttur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaaliqua. Lorem ipsum dolor sit ame adipisicing somar elle vio tar nero magna puro elit..&#8221;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/more.jpg">
+“Lorem ipsum dolor sit amet, consecttur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magnaaliqua. Lorem ipsum dolor sit ame adipisicing somar elle vio tar nero magna puro elit..”&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/more.jpg">
 </div>
 </div>
 <div class="down-box1">
@@ -110,7 +110,8 @@ Lorem ipsum dolor sit amet, consecteturp elitd do eiusmod tempor incididunt ue e
 </div>
 
 <div class="footer">
-Copyright Business Company (c) 2007, All rights Reserved. Designed by <a title="Web Templates" href="http://www.elegant-templates.com">Elegant Web Templates</a></div>
+Copyright Business Company (c) 2007, All rights Reserved.
+</div>
 
 </div>
 </center>
